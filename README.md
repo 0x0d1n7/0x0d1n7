@@ -13,7 +13,7 @@
 <h3 align="center"> 
 Cybersecurity Researcher | Pentester | Python, Nim, JS, Linux
 </h3>
-
+<!--
 <h3 align="center"> 
 <a href="https://github.com/0x0d1n7/nmapify">Nmapify</a>
 -
@@ -22,7 +22,7 @@ href="https://github.com/0x0d1n7/port-management-script">Port Management Script<
 -
 <a
 href="https://github.com/0x0d1n7/wifi-handshake-capture-tool">Wifi Handshake Capture Tool</a>
-
+-->
 </h3>
 
 <p>I aim to push boundaries, challenge norms, and help organizations strengthen their security. I conduct thorough pentests, simulate real-world attacks, and provide actionable recommendations to fortify systems.</p>
