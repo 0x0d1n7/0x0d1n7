@@ -25,4 +25,4 @@ href="https://github.com/0x0d1n7/wifi-handshake-capture-tool">Wifi Handshake Cap
 -->
 </h3>
 
-<p>I aim to push boundaries, challenge norms, and help organizations strengthen their security. I conduct thorough pentests, simulate real-world attacks, and provide actionable recommendations to fortify systems.</p>
+<p>I aim to push boundaries, challenge norms, and work on strengthening security. I conduct thorough pentests, simulate real-world attacks, and give actionable recommendations to fortify systems.</p>
