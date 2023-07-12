@@ -26,3 +26,11 @@ href="https://github.com/0x0d1n7/wifi-handshake-capture-tool">Wifi Handshake Cap
 </h3>
 
 <p>I aim to push boundaries, challenge norms, and work on strengthening security. I conduct thorough pentests, simulate real-world attacks, and give actionable recommendations to fortify systems.</p>
+
+<a href="https://binary-offensive.com">
+  <img align="center" src="https://readmestats.999857.xyz/api?username=0x0d1n7&show_icons=true&line_height=33&count_private=true&theme=vue-dark" alt="d1n7's GitHub Stats" />
+</a>
+
+<a href="https://binary-offensive.com">
+  <img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=0x0d1n7&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark&exclude_repo=cobalt-arsenal" />
+</a>
